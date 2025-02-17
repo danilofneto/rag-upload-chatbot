@@ -2,6 +2,8 @@
 
 Este é um projeto de portfólio que demonstra a integração de uma interface Streamlit com um banco de dados vetorial FAISS e um modelo de linguagem grande (LLM) baseado no ChatGPT. O objetivo do projeto é permitir a adição de documentos ou livros, que são transformados e armazenados no banco de dados vetorial, e posteriormente, recuperar essas informações utilizando Recuperação de Informação Guiada (RAG) para interagir com o LLM via Streamlit.
 
+![LLM Integration](llm-bi.PNG)
+
 ## Funcionalidades
 
 - **Upload de Documentos**: Adicione documentos ou livros através da interface Streamlit.
